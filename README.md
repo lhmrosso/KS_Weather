@@ -28,7 +28,7 @@ As the first step, the python code needs to get the user input (Table 1), identi
 
 <img style="float: left;" src="sketch.jpeg" alt="sketch_image" width="700"/>
 
-<br><br><br><br><br><br><br><br>
+<br>
 
 ## References
 Kansas Mesonet, 2019: Kansas Mesonet Historical Data. Accessed 16 April 2019, http://mesonet.k-state.edu/weather/historical
