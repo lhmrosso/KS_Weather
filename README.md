@@ -21,7 +21,7 @@ As the first step, the python code needs to get the user input (Table 1), identi
 **Table 1.** Example of `USER_inputs.csv` showing the required format for each column.
 
 | State          | Location_code  | Latitude       | Longitude      | Start_date     |End_date        |
-|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|
+|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
 | Kansas         | Manhattan_01   | 00.0000000     | 00.0000000     | MM/DD/YYYY     | MM/DD/YYYY     |
 
 ## Sketch
